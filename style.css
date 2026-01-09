@@ -64,6 +64,7 @@ body {
     cursor: pointer;
 }
 
+
 /* Hero Section */
 #hero {
  
@@ -186,6 +187,7 @@ body {
     justify-content: space-between;
     align-items: center;
     gap: 15px;
+    padding: 0 10px;
 }
 .note-card {
     background-color: #fcf3f3;
